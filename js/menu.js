@@ -1,6 +1,6 @@
 // Lista de mascotas (cambia los nombres). Fotos: imagenes/mascotas/mascota1.jpg, mascota2.jpg ...
-const nombres = ["Sami","Luna","Dusty","Nala","Rocky","Mía","Simba","Coco","Bruno","Lola",
-                 "Thor","Kira","Rex","Canela","Duke","Pelusa","Zeus","Bella","Chispa","Oreo"];
+const nombres = ["Sami","Tom","Dusty","Nala","Hercules","Mía","Simba","Coco","Bruno","Lola",
+                 "Thor","Kira","Rex","Akira","Duke","Pelusa","Zeus","Bella","Chispa","Oreo"];
 
 // 1. MENÚ: se dibuja dentro de <div id="menu"> para no repetirlo en cada página
 function crearMenu() {
